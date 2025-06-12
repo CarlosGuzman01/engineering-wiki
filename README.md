@@ -6,3 +6,12 @@ pip install notebook
 
 jupyter notebook
 
+
+___
+
+| Emoji | Meaning             | Description                          |
+| ----- | ------------------- | ------------------------------------ |
+| ✅    | Resolved            | Issue has been fixed or addressed.   |
+| ⏳    | Unresolved          | Issue is still open or pending.      |
+| 🔍    | Under investigation | Issue is being actively looked into. |
+
