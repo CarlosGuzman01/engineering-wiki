@@ -15,3 +15,8 @@ ___
 | ⏳    | Unresolved          | Issue is still open or pending.      |
 | 🔍    | Under investigation | Issue is being actively looked into. |
 
+
+___
+
+https://www.datacamp.com/blog/infographic-data-and-machine-learning-tools-landscape
+
