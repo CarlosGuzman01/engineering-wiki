@@ -6,6 +6,8 @@ pip install notebook
 
 jupyter notebook
 
+---
+
 
 https://www.datacamp.com/blog/infographic-data-and-machine-learning-tools-landscape
 
